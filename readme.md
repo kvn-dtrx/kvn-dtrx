@@ -1,22 +1,19 @@
 
-# Kevin Dietrich
+# kvn-dtrx
 
-Welcome to my GitHub profile! I’m a data scientist and machine learning engineer focused on turning real‑world problems into actionable insights.
+Esteemed reader, welcome to my GitHub profile.
 
----
+## Synopsis
+
+Welcome to ! I’m a data scientist and machine learning engineer focused on turning real‑world problems into actionable insights.
 
 ## 🌐 Connect
 
 Find my full portfolio, blog posts, and interactive slide decks on my personal website:  
-[https://kvn-dtrx.github.io/](https://kvn-dtrx.github.io/)  
 
----
-
+- [Web](https://kvn-dtrx.github.io)
 - [eMail](mailto:kevin.dietrich@protonmail.ch)
 - [LinkedIn](https://www.linkedin.com/in/kevin-kd-dietrich)
-<!-- - [Twitter](https://twitter.com/kvn-dtrx) -->
-
----
 
 ## 🚀 Featured Projects
 
@@ -28,15 +25,6 @@ Find my full portfolio, blog posts, and interactive slide decks on my personal w
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Languages:** Python, R, SQL  
-- **ML & Data:** scikit‑learn, pandas, NumPy, CatBoost, Plotly  
-- **Visualization:** matplotlib, seaborn, reveal.js  
-- **Tools:** Git, Docker, GitHub Actions, Jupyter Notebook  
-
----
-
 # My Preference Relations
 
 In contrast to [genuine](https://en.wikipedia.org/wiki/Preference_relation) ones, my preference orders are indeed always complete ... but possibly not transitive!
@@ -45,7 +33,7 @@ In contrast to [genuine](https://en.wikipedia.org/wiki/Preference_relation) ones
 
 ``` text
   Hope    > Empire > Revenge
-> Phantom > Jedi   > Clones
+> Menace  > Jedi   > Attack
 > Force   > Return > Rise
 ```
 
