@@ -12,9 +12,9 @@ Find my full portfolio, blog posts, and interactive slide decks on my personal w
 
 ---
 
-- 💌 [eMail](mailto:kevin.dietrich@protonmail.ch)
-- 👔 [LinkedIn](https://www.linkedin.com/in/kevin-kd-dietrich)
-<!-- - 💬 [Twitter](https://twitter.com/kvn-dtrx) -->
+- [eMail](mailto:kevin.dietrich@protonmail.ch)
+- [LinkedIn](https://www.linkedin.com/in/kevin-kd-dietrich)
+<!-- - [Twitter](https://twitter.com/kvn-dtrx) -->
 
 ---
 
@@ -37,13 +37,9 @@ Find my full portfolio, blog posts, and interactive slide decks on my personal w
 
 ---
 
-## 📄 License
-
-This profile and its content are licensed under the MIT License. See [licence.txt](./licence.txt) for details.  
-
 # My Preference Relations
 
-In contrast to [genuine](https://en.wikipedia.org/wiki/Preference_relation) ones, my preference orders are indeed always complete ... but possibly not transitive. ☺️
+In contrast to [genuine](https://en.wikipedia.org/wiki/Preference_relation) ones, my preference orders are indeed always complete ... but possibly not transitive!
 
 ## *Star Wars*: Skywalker Saga Episodes
 
@@ -70,4 +66,6 @@ In contrast to [genuine](https://en.wikipedia.org/wiki/Preference_relation) ones
 
 ## Colophon
 
-**Author:*
+**Author:** [kvn-dtrx](https://github.com/kvn-dtrx)
+
+**License:** [MIT License](./licence.txt) for details.
