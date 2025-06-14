@@ -1,4 +1,4 @@
 /*
 !.gitignore
-!license.txt
-!readme.md
+!*.txt
+!*.md

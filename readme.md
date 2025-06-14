@@ -1,71 +1,30 @@
 
-# Kevin Dietrich
+# kvn-dtrx
 
-Welcome to my GitHub profile! I’m a data scientist and machine learning engineer focused on turning real‑world problems into actionable insights.
+Esteemed visitor, welcome to my GitHub profile.
 
----
+## Synopsis
 
-## 🌐 Connect
+Da Sie diese Seite mit hoher Wahrscheinlichkeit über mein [LinkedIn-Profil](https://www.linkedin.com/in/kevin-kd-dietrich) erreicht haben [^else]  
 
-Find my full portfolio, blog posts, and interactive slide decks on my personal website:  
-[https://kvn-dtrx.github.io/](https://kvn-dtrx.github.io/)  
+Welcome to ! I'm a data scientist and machine learning engineer focused on turning real‑world problems into actionable insights.
 
----
+[^else]: und falls nicht, dürften [diese Information](./kvn-dtrx/kvn-dtrx/blob/main/fun-facts.md) oder ein inspierierende Zita [iquote](kvn-dtrx/kvn-dtrx/blob/main/quote.md)  über mich wohl wesentlich relevanter sein inspirierendes .
 
-- [eMail](mailto:kevin.dietrich@protonmail.ch)
-- [LinkedIn](https://www.linkedin.com/in/kevin-kd-dietrich)
-<!-- - [Twitter](https://twitter.com/kvn-dtrx) -->
+<!-- NOTE: Relative links will not work at this place: GitHub would resolve `./foo` to `https://github.com/foo! -->
 
----
+## Contact
 
-## 🚀 Featured Projects
-
-| Project                                                                                       | Description                                        |
-| --------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| [ds-eda-project_king-county-house-prices](https://github.com/kvn-dtrx/ds-eda-project_king-county-house-prices) | Exploratory Data Analysis on King County home sales |
-| [ds-ml-project_flight-prediction-challenge](https://github.com/kvn-dtrx/ds-ml-project_flight-prediction-challenge) | Predict flight delays with CatBoost                |
-| [signal-sigma-capstone](https://github.com/kvn-dtrx/signal-sigma-capstone)                    | Time‑series anomaly detection in sensor data       |
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, R, SQL  
-- **ML & Data:** scikit‑learn, pandas, NumPy, CatBoost, Plotly  
-- **Visualization:** matplotlib, seaborn, reveal.js  
-- **Tools:** Git, Docker, GitHub Actions, Jupyter Notebook  
-
----
-
-# My Preference Relations
-
-In contrast to [genuine](https://en.wikipedia.org/wiki/Preference_relation) ones, my preference orders are indeed always complete ... but possibly not transitive!
-
-## *Star Wars*: Skywalker Saga Episodes
-
-``` text
-  Hope    > Empire > Revenge
-> Phantom > Jedi   > Clones
-> Force   > Return > Rise
-```
-
-## *Star Trek*: Shatner-Stewart Films
-
-``` text
-  Contact     > Nemesis > Motion 
-> Frontier    > Khan    > Country 
-> Generations > Spock   > Insurrection > Voyage
-```
-
-## *Middle-Earth*: Peter Jackson's Films
-
-``` text
-  Return > Fellowship > Towers 
-> Armies > Desolation > Journey
-```
+| Method | URL |
+| --- | --- |
+| Web | <https://kvn-dtrx.github.io> |
+| GitHub | <https://github.com/kvn-dtrx> |
+| LinkedIn | <https://linkedin.com/in/kevin-kd-dietrich> |
+| Email | <mailto:kevin.dietrich+github@protonmail.ch> |
 
 ## Colophon
 
 **Author:** [kvn-dtrx](https://github.com/kvn-dtrx)
 
-**License:** [MIT License](./licence.txt) for details.
+**License:** [MIT License](./license.txt)
+
