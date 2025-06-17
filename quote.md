@@ -15,3 +15,21 @@ English Translation[^translators]:
 > \[…\] \[T\]ruth \[is\] granted only a short victory celebration between the two long periods of time when it is condemned as paradoxical or disparaged as trivial. \[…\] But life is short and the reach of the truth is long and long-lived: let us speak the truth.
 
 [^translators]: Judith Norman, Alistair Welchman, and Christopher Janaway (2010)
+
+<blockquote style="color: grey;">
+  […] [J]eder Erkenntniß [ist] nur ein kurzes Siegesfest beschieden […], zwischen den beiden langen Zeiträumen, wo sie als paradox verdammt und als trivial geringgeschätzt wird. […] Aber das Leben ist kurz und die Wahrheit wirkt ferne und lebt lange: sagen wir die Wahrheit.
+  <br><br>
+  — A. S.: <em>WaWuV</em>, Vorrede. 1819
+</blockquote>
+
+<hr>
+
+<p style="color: white;"><strong>English Translation</strong><sup><a href="#fn1" style="color: white;">†</a></sup>:</p>
+
+<blockquote style="color: white;">
+  […] [T]ruth [is] granted only a short victory celebration between the two long periods of time when it is condemned as paradoxical or disparaged as trivial. […] But life is short and the reach of the truth is long and long-lived: let us speak the truth.
+</blockquote>
+
+<p id="fn1" style="font-size: 0.9em; color: grey;">
+<sup>†</sup> Translation by Judith Norman, Alistair Welchman, and Christopher Janaway (2010)
+</p>
