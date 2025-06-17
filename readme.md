@@ -13,15 +13,12 @@ Welcome to ! I'm a data scientist and machine learning engineer focused on turni
 
 ## Contact
 
-- Web:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[kvn-dtrx.github.io](https://kvn-dtrx.github.io)  
-- GitHub:&nbsp;&nbsp;&nbsp;[github.com/kvn-dtrx](https://github.com/kvn-dtrx)  
-- 🔗 LinkedIn:&nbsp;[linkedin.com/in/kvn-dtrx](https://linkedin.com/in/kvn-dtrx)  
-- ✉️ Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;your.email@example.com  
-
-- 🌐 [Web](https://kvn-dtrx.github.io)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-kd-dietrich)
-- 💻 [GitHub](https://github.com/kvn-dtrx)
-- ✉️ [Email](mailto:kevin.dietrich@protonmail.ch)
+| Contact | Link|
+| --- | --- |
+| Web | [kvn-dtrx.github.io](https://kvn-dtrx.github.io)          |
+| GitHub | [github.com/kvn-dtrx](https://github.com/kvn-dtrx)        |
+| LinkedIn | [linkedin.com/in/kvn-dtrx](https://linkedin.com/in/kvn-dtrx) |
+| Email | [kvn.dtrxh@protonmail.ch](mailto:kvn.dtrxh@protonmail.ch) |
 
 ## Colophon
 
