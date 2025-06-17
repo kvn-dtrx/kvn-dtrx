@@ -9,7 +9,9 @@ Da Sie diese Seite mit hoher Wahrscheinlichkeit über mein [LinkedIn-Profil](htt
 
 Welcome to ! I'm a data scientist and machine learning engineer focused on turning real‑world problems into actionable insights.
 
-[^else]: und falls nicht, dürften [diese Information](./fun-facts.md) oder ein inspierierende Zita [iquote](./quote.md)  über mich wohl wesentlich relevanter sein inspirierendes .
+[^else]: und falls nicht, dürften [diese Information](./kvn-dtrx/fun-facts.md) oder ein inspierierende Zita [iquote](quote.md)  über mich wohl wesentlich relevanter sein inspirierendes .
+
+<!-- NOTE: Relative links will not work at this place: GitHub would resolve `./foo` to `https://github.com/foo! -->
 
 ## Contact
 
@@ -18,7 +20,7 @@ Welcome to ! I'm a data scientist and machine learning engineer focused on turni
 | Web | <https://kvn-dtrx.github.io> |
 | GitHub | <https://github.com/kvn-dtrx> |
 | LinkedIn | <https://linkedin.com/in/kevin-kd-dietrich> |
-| Email | <mailto:kevin.dietrich@protonmail.ch> |
+| Email | <mailto:kevin.dietrich+github@protonmail.ch> |
 
 ## Colophon
 
