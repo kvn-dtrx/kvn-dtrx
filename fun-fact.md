@@ -1,13 +1,12 @@
-
 # Personal Fun Fact: My Preference Relations
 
 <!-- 
 > I think there's more to this Hobbit than meets the eye.
 >
-> Gandalf, *The Fellowship of the Ring* 
-> -->
+> Gandalf, *The Fellowship of the Ring*
+-->
 
-As a fun fact, I disclose my canonical "preference relations" on three significant sets of popular culture. 
+As a fun fact, I disclose my canonical *preference relations* on three significant sets of popular culture. 
 
 In contrast to [genuine](https://en.wikipedia.org/wiki/Preference_relation) preference relations, mine are indeed always complete — though possibly not transitive!
 
