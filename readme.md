@@ -9,7 +9,7 @@ Da Sie diese Seite mit hoher Wahrscheinlichkeit über mein [LinkedIn-Profil](htt
 
 Welcome to ! I'm a data scientist and machine learning engineer focused on turning real‑world problems into actionable insights.
 
-[^else]: und falls nicht, dürften [diese Information](./preference-relations.md) über mich wohl wesentlich relevanter sein.
+[^else]: und falls nicht, dürften [diese Information](./fun-facts.md) oder ein inspierierende Zita [iquote](./quote.md)  über mich wohl wesentlich relevanter sein inspirierendes .
 
 ## Contact
 
