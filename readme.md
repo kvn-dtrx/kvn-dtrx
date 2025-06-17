@@ -15,10 +15,10 @@ Welcome to ! I'm a data scientist and machine learning engineer focused on turni
 
 | Contact | Link|
 | --- | --- |
-| Web | [kvn-dtrx.github.io](https://kvn-dtrx.github.io)          |
-| GitHub | [github.com/kvn-dtrx](https://github.com/kvn-dtrx)        |
-| LinkedIn | [linkedin.com/in/kvn-dtrx](https://linkedin.com/in/kvn-dtrx) |
-| Email | [kvn.dtrxh@protonmail.ch](mailto:kvn.dtrxh@protonmail.ch) |
+| Web | [https://kvn-dtrx.github.io](https://kvn-dtrx.github.io) |
+| GitHub | [https://github.com/kvn-dtrx](https://github.com/kvn-dtrx) |
+| LinkedIn | [https://linkedin.com/in/kvn-dtrx](https://linkedin.com/in/kvn-dtrx) |
+| Email | [mailto:kvn.dtrx@protonmail.ch](mailto:kvn.dtrx@protonmail.ch) |
 
 ## Colophon
 
