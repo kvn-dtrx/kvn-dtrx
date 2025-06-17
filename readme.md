@@ -16,9 +16,23 @@ Find my full portfolio, blog posts, and interactive slide decks on my personal w
 - [eMail](mailto:kevin.dietrich@protonmail.ch)   :
 - [LinkedIn](https://www.linkedin.com/in/kevin-kd-dietrich):
 
-projects as slide show ...
+## Colophon
 
-<!-- ## My Preference Relations
+**Author:** [kvn-dtrx](https://github.com/kvn-dtrx)
+
+**License:** [MIT License](./license.txt)
+
+<!-- 
+
+---
+
+## My Preference Relations
+
+> I think there's more to this Hobbit than meets the eye.
+>
+> Gandalf, The Fellowship of the Ring
+
+As a fun fact, I reveal my canonical "preference relations" on three important sets in pop culture. 
 
 In contrast to [genuine](https://en.wikipedia.org/wiki/Preference_relation) ones, my preference orders are indeed always complete ... but possibly not transitive!
 
@@ -44,9 +58,3 @@ In contrast to [genuine](https://en.wikipedia.org/wiki/Preference_relation) ones
   Return > Fellowship > Towers 
 > Battle > Desolation > Journey
 ``` -->
-
-## Colophon
-
-**Author:** [kvn-dtrx](https://github.com/kvn-dtrx)
-
-**License:** [MIT License](./license.txt)
