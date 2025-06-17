@@ -1,5 +1,5 @@
 
-# Personal Fun Facts: My Preference Relations
+# Personal Fun Fact: My Preference Relations
 
 > I think there's more to this Hobbit than meets the eye.
 >
