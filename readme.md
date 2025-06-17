@@ -15,7 +15,7 @@ und pinned projecte
 
 ## Contact
 
-| | | | |
+| 🕸️ | 👔  | 🐈 | 📭 |
 | --- | --- | --- | --- |
 | [Web](https://kvn-dtrx.github.io) | [LinkedIn](https://www.linkedin.com/in/kevin-kd-dietrich) |[GitHub](https://github.com/kvn-dtrx) | [Email](mailto:kevin.dietrich@protonmail.ch) |
 
