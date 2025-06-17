@@ -4,28 +4,10 @@ Das folgende Zitat ist wohl die Grundlage dessen, was heute unter dem Schlagwort
 
 ---
 
-> \[…\] \[J\]eder Erkenntniß \[ist\] nur ein kurzes Siegesfest beschieden \[…\], zwischen den beiden langen Zeiträumen, wo sie als paradox verdammt und als trivial geringgeschätzt wird. \[…\] Aber das Leben ist kurz und die Wahrheit wirkt ferne und lebt lange: sagen wir die Wahrheit.
+> \[…\] \[J\]eder Erkenntniß \[ist\] nur ein kurzes Siegesfest beschieden \[…\], zwischen den beiden langen Zeiträumen, wo sie als paradox verdammt und als trivial geringgeschätzt wird. \[…\] Aber das Leben ist kurz und die Wahrheit wirkt ferne und lebt lange: sagen wir die Wahrheit.[^translation]
 >
 > A. S.: *WaWuV*, Vorrede. 1819
 
 ---
 
-English Translation by Judith Norman, Alistair Welchman, and Christopher Janaway (2010):  
-
-> \[…\] \[T\]ruth \[is\] granted only a short victory celebration between the two long periods of time when it is condemned as paradoxical or disparaged as trivial. \[…\] But life is short and the reach of the truth is long and long-lived: let us speak the truth.
-
-<hr>
-
-<blockquote>
-  […] [J]eder Erkenntniß [ist] nur ein kurzes Siegesfest beschieden […], zwischen den beiden langen Zeiträumen, wo sie als paradox verdammt und als trivial geringgeschätzt wird. […] Aber das Leben ist kurz und die Wahrheit wirkt ferne und lebt lange: sagen wir die Wahrheit.
-  <br><br>
-  — A. S.: <em>WaWuV</em>, Vorrede. 1819
-</blockquote>
-
-<hr>
-
-<p><strong>English Translation</strong> by Judith Norman, Alistair Welchman, and Christopher Janaway (2010):</p>
-
-<blockquote>
-  […] [T]ruth [is] granted only a short victory celebration between the two long periods of time when it is condemned as paradoxical or disparaged as trivial. […] But life is short and the reach of the truth is long and long-lived: let us speak the truth.
-</blockquote>
+[^translation]: \[…\] \[T\]ruth \[is\] granted only a short victory celebration between the two long periods of time when it is condemned as paradoxical or disparaged as trivial. \[…\] But life is short and the reach of the truth is long and long-lived: let us speak the truth. (translated by Judith Norman, Alistair Welchman, and Christopher Janaway, 2010)
