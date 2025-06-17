@@ -8,7 +8,7 @@ Das folgende Zitat ist wohl die Grundlage dessen, was heute unter dem Schlagwort
 >
 > A. S.: *WaWuV*, Vorrede. 1819
 >
-> “<span style="font-style: normal;">\[…\]</span> <span style="font-style: normal;">\[J\]</span>eder Erkenntniß <span style="font-style: normal;">\[ist\]</span> nur ein kurzes Siegesfest beschieden <span style="font-style: normal;">\[…\]</span>, zwischen den beiden langen Zeiträumen, wo sie als paradox verdammt und als trivial geringgeschätzt wird. <span style="font-style: normal;">\[…\]</span> Aber das Leben ist kurz und die Wahrheit wirkt ferne und lebt lange: sagen wir die Wahrheit.”[^translation]
+> “*<span style="font-style: normal;">\[…\]</span> <span style="font-style: normal;">\[J\]</span>eder Erkenntniß <span style="font-style: normal;">\[ist\]</span> nur ein kurzes Siegesfest beschieden <span style="font-style: normal;">\[…\]</span>, zwischen den beiden langen Zeiträumen, wo sie als paradox verdammt und als trivial geringgeschätzt wird. <span style="font-style: normal;">\[…\]</span> Aber das Leben ist kurz und die Wahrheit wirkt ferne und lebt lange: sagen wir die Wahrheit.*”[^translation]
 > 
 > A. S.: *WaWuV*, Vorrede. 1819
 
