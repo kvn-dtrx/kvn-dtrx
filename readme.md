@@ -3,7 +3,7 @@
 
 ## Synopsis
 
-Since the reader has most likely arrived at this page via my [LinkedIn profile](https://www.linkedin.com/in/kevin-kd-dietrich), he is presumably interested in an examination of my data science and machine learning-related repositories.[^else] For this purpose, I have prepared a [slide show](./slide); alternatively, one may scroll down to the pinned repositories.
+Since the reader has most likely arrived at this page via my [LinkedIn profile](https://www.linkedin.com/in/kevin-kd-dietrich), he is presumably interested in an examination of my data science and machine learning-related repositories.[^else] For this purpose, I have prepared a [slide show](https://kvn-dtrx.github.io); alternatively, one may scroll down to the pinned repositories.
 
 [^else]: Otherwise, I may offer an inspiring [quotation](./kvn-dtrx/kvn-dtrx/blob/main/quote.md) or some unrelated [fun facts](./kvn-dtrx/kvn-dtrx/blob/main/fun-fact.md) about myself.
 
