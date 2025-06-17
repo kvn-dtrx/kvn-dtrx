@@ -1,20 +1,22 @@
 
 # kvn-dtrx
 
-Esteemed reader, welcome to my GitHub profile.
+Esteemed visitor, welcome to my GitHub profile.
 
 ## Synopsis
 
+Da Sie diese Seite mit hoher Wahrscheinlichkeit über mein [LinkedIn-Profil](https://www.linkedin.com/in/kevin-kd-dietrich) erreicht haben [^else]  
+
 Welcome to ! I'm a data scientist and machine learning engineer focused on turning real‑world problems into actionable insights.
+
+[^else]: und falls nicht, dürften [diese Information](./preference-relations.md) über mich wohl wesentlich relevanter sein.
 
 ## Contact
 
-Find my full portfolio, blog posts, and interactive slide decks on my personal website:  
-
-- [Web](https://kvn-dtrx.github.io)   :
-- [GitHub](https://github.com/kvn-dtrx)   :
-- [eMail](mailto:kevin.dietrich@protonmail.ch)   :
-- [LinkedIn](https://www.linkedin.com/in/kevin-kd-dietrich):
+- [Web](https://kvn-dtrx.github.io)
+- [LinkedIn](https://www.linkedin.com/in/kevin-kd-dietrich)
+- [GitHub](https://github.com/kvn-dtrx)
+- [Email](mailto:kevin.dietrich@protonmail.ch)
 
 ## Colophon
 
@@ -22,39 +24,3 @@ Find my full portfolio, blog posts, and interactive slide decks on my personal w
 
 **License:** [MIT License](./license.txt)
 
-<!-- 
-
----
-
-## My Preference Relations
-
-> I think there's more to this Hobbit than meets the eye.
->
-> Gandalf, The Fellowship of the Ring
-
-As a fun fact, I reveal my canonical "preference relations" on three important sets in pop culture. 
-
-In contrast to [genuine](https://en.wikipedia.org/wiki/Preference_relation) ones, my preference orders are indeed always complete ... but possibly not transitive!
-
-### *Star Wars*: Skywalker Saga Episodes
-
-``` text
-  Hope    > Empire > Revenge
-> Menace  > Jedi   > Attack
-> Force   > Return > Rise
-```
-
-### *Star Trek*: Shatner-Stewart Films
-
-``` text
-  Contact     > Nemesis > Motion
-> Frontier    > Wrath   > Country
-> Generations > Search  > Insurrection > Voyage
-```
-
-### *Middle-Earth*: Peter Jackson's Films
-
-``` text
-  Return > Fellowship > Towers 
-> Battle > Desolation > Journey
-``` -->
