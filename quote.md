@@ -2,6 +2,7 @@
 Das folgende Zitat ist wohl die Grundlage dessen, was heute unter dem Schlagwort *Schopenhauerschen Treppe* firmiert, siehe etwa [hier](https://falschzitate.blogspot.com/2019/09/ein-neuer-gedanke-wird-zuerst-verlacht.html)
 -->
 
+<!-- markdownlint-disable MD041 -->
 ---
 
 > “\[…\] \[J\]*eder Erkenntniß* \[ist\] *nur ein kurzes Siegesfest beschieden* \[…\]*, zwischen den beiden langen Zeiträumen, wo sie als paradox verdammt und als trivial geringgeschätzt wird.* \[…\] *Aber das Leben ist kurz und die Wahrheit wirkt ferne und lebt lange: sagen wir die Wahrheit.*”[^translation]
