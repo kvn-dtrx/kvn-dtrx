@@ -10,13 +10,13 @@ Since the reader has most likely arrived at this page via my [LinkedIn profile](
 
 ## Contact
 
-| Method | URL |
+| Method | Identifier |
 | --- | --- |
 | Web | <https://kvn-dtrx.github.io> |
 | GitHub | <https://github.com/kvn-dtrx> |
 | LinkedIn | <https://linkedin.com/in/kevin-kd-dietrich> |
 | Email | <mailto:kvn.dtrx+github@protonmail.ch> |
-| PGP | [mDMEZ2Jr/BYJKwYBBAHaRw8BA…](https://github.com/kvn-dtrx/kvn-dtrx/blob/main/pgp.asc) |
+| PGP | [Available here](https://github.com/kvn-dtrx/kvn-dtrx/blob/main/pgp.md) |
 
 ## Colophon
 

@@ -1,3 +1,8 @@
+# PGP
+
+## Public Key Block
+
+``` text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZ2Jr/BYJKwYBBAHaRw8BAQdAWXdid36axLrc3uegXUvSne5IRJFFwgEik2WP
@@ -19,3 +24,13 @@ ALRUxMBXrCTJgBvDCHsykkzqPvjiYJHQELiJp93r2cXhAQDe9C3Tq6nhdFSPz2hs
 e2vhOX2K2YCJxmr8zOytYyg5Cg==
 =2upb
 -----END PGP PUBLIC KEY BLOCK-----
+```
+
+## Key Details
+
+| Property | Value |
+| --- | --- |
+| Key ID | `0x57BE05261F1A89B4` |
+| Fingerprint | `5B3D 04A0 0DC0 4C57 C46F 9222 57BE 0526 1F1A 89B4` |
+<!-- | Keyserver | [https://keys.openpgp.org/](https://keys.openpgp.org/) | -->
+<!-- | Download Link | [https://example.com/yourkey.asc](https://example.com/yourkey.asc) | -->
