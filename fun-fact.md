@@ -1,6 +1,6 @@
 # Fun Fact: My Preference Relations
 
-<!-- 
+<!--
 > I think there's more to this Hobbit than meets the eye.
 >
 > Gandalf, *The Fellowship of the Ring*
@@ -29,6 +29,6 @@ In contrast to [genuine](https://en.wikipedia.org/wiki/Preference_relation) pref
 ## *Middle-Earth*: Peter Jackson's Films
 
 ``` text
-  Return > Fellowship > Towers 
+  Return > Fellowship > Towers
 > Battle > Desolation > Journey
 ```

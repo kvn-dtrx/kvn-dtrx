@@ -1,4 +1,4 @@
-<!-- 
+<!--
 Das folgende Zitat ist wohl die Grundlage dessen, was heute unter dem Schlagwort *Schopenhauerschen Treppe* firmiert, siehe etwa [hier](https://falschzitate.blogspot.com/2019/09/ein-neuer-gedanke-wird-zuerst-verlacht.html)
 -->
 
